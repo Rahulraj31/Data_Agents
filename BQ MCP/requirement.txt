@@ -1,0 +1,7 @@
+google-adk
+google-generativeai
+python-dotenv
+google-cloud-aiplatform
+fastapi==0.115.0
+matplotlib
+uuid
